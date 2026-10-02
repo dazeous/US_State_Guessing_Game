@@ -1,0 +1,9 @@
+states_not_guessed.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
